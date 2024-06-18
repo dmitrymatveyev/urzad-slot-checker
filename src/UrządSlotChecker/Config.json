@@ -1,0 +1,19 @@
+{
+    "BrowserPath": "/usr/bin/google-chrome-stable",
+    "PageWidth": 1024,
+    "PageHeight": 768,
+    "CheckIntervalInSeconds": 120,
+    "URL": "https://rejestracjapoznan.poznan.uw.gov.pl/",
+    "VisitTypeNumber": 6,
+    "LackOfSlotsMessage1": "Brak dostępnych rezerwacji w okresie",
+    "LackOfSlotsMessage2": "Brak dostępnych terminów do rezerwacji",
+    "ScreenshotsDir": "./screenshots",
+    "SmtpHost": "smtp.gmail.com",
+    "SmtpPort": 587,
+    "SmtpEnableSsl": true,
+    "FromEmail": "test@gmail.com",
+    "FromPassword": "[email password]",
+    "ToEmail": "test@gmail.com",
+    "EmailSubject": "Alert!",
+    "EmailContent": "https://rejestracjapoznan.poznan.uw.gov.pl/\n\n[NAME SURNAME]\n[PASSPORT]\n\n[PESEL]\n\n"
+  }
